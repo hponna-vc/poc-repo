@@ -1,0 +1,8 @@
+Package: hello
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: POC <hponna@veracode.com>
+Description: Hello package for POC
+  test package to demonstrate a repo
