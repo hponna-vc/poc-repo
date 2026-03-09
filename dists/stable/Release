@@ -1,17 +1,7 @@
-Date: Mon, 09 Mar 2026 04:55:49 +0000
-MD5Sum:
- 1afa3f994156b676fd0bcd56de0d8bd2               38 Release
- aad48d6680f39366a496fa7eef09ffa0              305 main/binary-all/Packages.gz
- aad48d6680f39366a496fa7eef09ffa0              305 main/binary-arm64/Packages.gz
-SHA1:
- fc7a81a4ca6fbd24e599db11aaee37260faae06a               38 Release
- f2ad4a763a3f977080389c79a5d38e6f942b36a5              305 main/binary-all/Packages.gz
- f2ad4a763a3f977080389c79a5d38e6f942b36a5              305 main/binary-arm64/Packages.gz
-SHA256:
- 8684df91d657baa71ba19450a3bd252b4b35ac9c1d64d6d8e0deed33f4521978               38 Release
- e5385568937610dcf72b5f74c58a93498cff2f394b29c1c4c4a0415890f527ad              305 main/binary-all/Packages.gz
- e5385568937610dcf72b5f74c58a93498cff2f394b29c1c4c4a0415890f527ad              305 main/binary-arm64/Packages.gz
-SHA512:
- c3fe8c327722be55493cda6146fcf60c4fdb91633cf4a75169b49e15c0bef26d7691ea5e9f87a00000c5d41f8f656b1000b060e7ec69c8ca8966c50157be2dcb               38 Release
- 861967768243c67c29a75259661bbf0bed96740144ecc18677e4f00ad0862b97f49dd2f66cccbeaeddf2ea807e0ec58ad02a98787b75df44ef14206498ef4a1d              305 main/binary-all/Packages.gz
- 861967768243c67c29a75259661bbf0bed96740144ecc18677e4f00ad0862b97f49dd2f66cccbeaeddf2ea807e0ec58ad02a98787b75df44ef14206498ef4a1d              305 main/binary-arm64/Packages.gz
+Origin: POC
+Label: POC Repo
+Suite: stable
+Codename: stable
+Architectures: all arm64
+Components: main
+Description: POC repository signed with new key
