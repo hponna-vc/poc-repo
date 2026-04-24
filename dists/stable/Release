@@ -1,7 +1,17 @@
-Origin: POC
-Label: POC Repo
-Suite: stable
-Codename: stable
-Architectures: all arm64
-Components: main
-Description: POC repository signed with new key
+Date: Fri, 24 Apr 2026 11:26:06 +0000
+MD5Sum:
+ e1e4403262df83bab51f474c3d133f67               38 Release
+ 3e7bbe9904229bf96d757011aa8d34d9              321 main/binary-all/Packages.gz
+ 3e7bbe9904229bf96d757011aa8d34d9              321 main/binary-arm64/Packages.gz
+SHA1:
+ bc86dbcbcd997372f2c1c841cb36226ba80b56e1               38 Release
+ 3d7770a89524bc82e151dd01a386367d157a1a67              321 main/binary-all/Packages.gz
+ 3d7770a89524bc82e151dd01a386367d157a1a67              321 main/binary-arm64/Packages.gz
+SHA256:
+ cb3e0f30db9e1650bfa435e4d182936c4d4bc49cce039e4c88b15297b8bf4f91               38 Release
+ 7c8270c96e8f1b83a2f69cc13b6708665eccd9902cf68a94fc80a9cbc02cf37e              321 main/binary-all/Packages.gz
+ 7c8270c96e8f1b83a2f69cc13b6708665eccd9902cf68a94fc80a9cbc02cf37e              321 main/binary-arm64/Packages.gz
+SHA512:
+ 1b5c01c6be4bd4f0a49a11479899d7269f0d80c170ff1013e60bc83358634416b1a97d9d20753d6821ecf488dbd1909422f694f342802b6b2e8f52be09202a11               38 Release
+ 47017dd620ee93be82b190094f4a78f6d89aae2c8612ab5de947ebbbe619767d7809b73aacef24032aace7764b2411f7415b3abbad82a2f02736cb2892e8e053              321 main/binary-all/Packages.gz
+ 47017dd620ee93be82b190094f4a78f6d89aae2c8612ab5de947ebbbe619767d7809b73aacef24032aace7764b2411f7415b3abbad82a2f02736cb2892e8e053              321 main/binary-arm64/Packages.gz
